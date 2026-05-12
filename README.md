@@ -26,9 +26,9 @@ My deepest interests lie at the intersection of software engineering and intelli
 
 <div align="center">
 
-  <img src="https://github-readme-stats-eosin-alpha-84.vercel.app/api?username=rakafdil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eosin-alpha-84.vercel.app/api?username=rakafdil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true](https://camo.githubusercontent.com/3c8708e680f95ed09348b21b69a7a66b37135e41bac246f103a272c0b76ff5ad/68747470733a2f2f6769746875622d726561646d652d73746174732d656f73696e2d616c7068612d38342e76657263656c2e6170702f6170693f757365726e616d653d72616b616664696c2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" height="180" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-eosin-alpha-84.vercel.app/api/top-langs/?username=rakafdil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-eosin-alpha-84.vercel.app/api/top-langs/?username=rakafdil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats-eosin-alpha-84.vercel.app/api/top-langs/?username=rakafdil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 
 </div>
 
