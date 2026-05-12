@@ -75,7 +75,7 @@ My deepest interests lie at the intersection of software engineering and intelli
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-rakafdil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakafdil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakafdil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-raka-fadillah-3a2964208/)
 
 </div>
 
