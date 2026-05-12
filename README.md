@@ -43,28 +43,45 @@ My deepest interests lie at the intersection of software engineering and intelli
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Laravel_Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 
 ### ⚙️ Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 
 ### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neon&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
 
-### 🤖 AI & Tooling
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🛠️ DevOps & Infrastructure
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
+### 🤖 AI, Lang & Tooling
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/LangGraph-Agents-2C3E50?style=for-the-badge&logo=python&logoColor=white" alt="Langgraph" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+
+### 🔌 Integrations & Payment
+<img src="https://img.shields.io/badge/Midtrans-00A9E0?style=for-the-badge&logo=maestro&logoColor=white" alt="Midtrans" />
 
 ---
 
@@ -72,10 +89,9 @@ My deepest interests lie at the intersection of software engineering and intelli
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🧠 [**Schedule-Helper-AI-service**](https://github.com/rakafdil/Schedule-Helper-AI-service) | Capstone project that bridges a modern frontend with an **AI-driven scheduling engine**. Implements a multi-step agent pipeline to understand user intent, resolve conflicts, and output optimized timetables. | Next.js · AI Agents · REST API |
+| 🧠 [**Schedule-Helper-AI-service**](https://github.com/rakafdil/Schedule-Helper-AI-service) | Capstone project that bridges a modern frontend with an **AI-driven scheduling engine**. Implements a multi-step agent pipeline to understand user intent, resolve conflicts, and output optimized timetables. | Next.js · AI Agents · REST API · Langgraph · FastAPI|
 | 🥗 [**NutriMori**](https://github.com/rakafdil/NutriMori) | Smart **food-logging web application** with an intuitive frontend. Users can track daily nutrition in real time; the UI is designed for frictionless data entry and at-a-glance health insights. | React · Tailwind CSS · Next.js |
-| ☁️ [**klikRasa**](https://github.com/rakafdil/klikRasa) | Demonstrates production-grade **cloud database cluster management** using MongoDB Atlas. Showcases replica-set configuration, connection pooling, and resilient data-access patterns. | MongoDB Atlas · NestJS · Cloud Infra |
-| 📝 [**Notes App**](https://github.com/rakafdil/notes-app) | Lightweight note-taking application that leverages **Firebase** for real-time sync, authentication, and serverless data storage — illustrating a fully managed, zero-ops backend approach. | Firebase · React · Firestore |
+| 📝 [**Notes App**](https://github.com/rakafdil/notes-app) | Lightweight note-taking application that leverages **Firebase** for real-time sync, authentication, and serverless data storage. | React · NeonDB · Express.js |
 
 ---
 
