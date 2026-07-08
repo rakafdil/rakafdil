@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **6th-semester Informatics student** passionate about building intelligent, scalable systems. I serve as a **Lab Assistant** for both **Web Programming** and **Object-Oriented Programming** courses, where I guide fellow students through hands-on software development.
+I'm a **7th-semester Informatics student** passionate about building intelligent, scalable systems. I serve as a **Lab Assistant** for both **Web Programming** and **Object-Oriented Programming** courses, where I guide fellow students through hands-on software development.
 
 My deepest interests lie at the intersection of software engineering and intelligence:
 
