@@ -55,6 +55,9 @@ My deepest interests lie at the intersection of software engineering and intelli
 ### 🤖 AI, Lang & Tooling
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/LangGraph-Agents-2C3E50?style=for-the-badge&logo=python&logoColor=white" alt="Langgraph" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 
+### ✨ Automation
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+
 ### 🔌 Integrations & Payment
 <img src="https://img.shields.io/badge/Midtrans-00A9E0?style=for-the-badge&logo=maestro&logoColor=white" alt="Midtrans" />
 
